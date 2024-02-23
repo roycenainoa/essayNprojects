@@ -9,8 +9,6 @@ published: true
 
 *"Design isn’t just what it looks like and feels like — design is how it works."*– Steve Jobs
 
-“Design isn’t just what it looks like and feels like — design is how it works.”– Steve Jobs, co-founder of Apple*
-
 In web applications such as HTML, User Interfaces (UI) play an important role in web design. UI consists of many elements such as forms, tables, and navigation bars.  Designing one from scratch using raw HTML and CSS can often pose a challenge due to the need for meticulous design and coding to ensure responsiveness and cross-browser compatibility. 
 
 <img width="300px" src="images/Mobile-Vs-Desktop-Website.jpg">
