@@ -9,4 +9,4 @@ published: true
 
 *"Design isn’t just what it looks like and feels like — design is how it works."– Steve Jobs*
 
-<img width="200px" src="images/Mobile-Vs-Desktop-Website.jpg">
+<img width="300px" src="images/Mobile-Vs-Desktop-Website.jpg">
