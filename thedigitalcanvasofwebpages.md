@@ -94,7 +94,7 @@ The Bootstrap 5 version utilizes the framework's built-in classes for styling an
   © 2024 MySite
 </footer>
 ```
-Meanwhile, semantic UI uses elements like <header>, <nav>, <main>, and <footer> for structural purposes, with custom CSS added for basic styling.
+Meanwhile, semantic UI uses elements like ```<header>```, ```<nav>```, ```<main>```, and ```<footer>``` for structural purposes, with custom CSS added for basic styling.
 
 Between the two code blocks, Bootstrap 5 is quick and more user-friendly to understand, but for semantic UI, for structural clarity of the UI, it requires additional CSS for full customization.
 
