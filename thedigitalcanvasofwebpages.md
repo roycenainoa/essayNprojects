@@ -13,4 +13,4 @@ published: true
 
 <img src="images/rawUI.png" alt="Raw sample no margins/padding" style="width: 50%;"/><img src="images/BootStrap5UI.png" alt="Bootstrap formatted sample" style="width: 50%;"/>
 
-<img src="images/originalmorningbrew.png" alt="Original Morning Brew" style="width: 50%;"/><img src="images/mymorningbrew.png" alt="Bootstrap formatted sample" style="width: 50%;"/>
+<img src="images/originalmorningbrew.png" alt="Original Morning Brew" style="width: 50%;"/><img src="images/mymorningbrew.png" alt="My Morning Brew Page" style="width: 50%;"/>
